@@ -2,4 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Now I have a second line.
 And a third line.
 fourth.
-
+This line was added in Github
